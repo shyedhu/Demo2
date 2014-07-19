@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Login Screen</string>
+    <string name="home">Home Screen</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="error">Error Screen</string>
+    <string name="Login">Sign In</string>
+    <string name="attempts"></string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_error">ErrorActivity</string>
+
+</resources>
